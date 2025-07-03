@@ -22,7 +22,6 @@ This project aims to create a powerful Document Q&A Chatbot utilizing the capabi
 3. **Answer Retrieval:** Langchain orchestrates the flow between components, ensuring accurate answers.
 4. **Optimized Inference:** The Groq API enhances the performance of the underlying models, delivering quick responses.
 
-## Installation
 
 ### Prerequisites
 
