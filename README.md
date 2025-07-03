@@ -30,12 +30,7 @@ This project aims to create a powerful Document Q&A Chatbot utilizing the capabi
 - Pip
 - Groq API credentials
 
-### Clone the Repository
 
-```bash
-git clone https://github.com/TLILIFIRAS/Document-Q-A-Chatbot-using-Llama3-Langchain-and-Groq-API.git
-cd Document-Q-A-Chatbot-using-Llama3-Langchain-and-Groq-API
-```
 
 ### Install Dependencies
 
