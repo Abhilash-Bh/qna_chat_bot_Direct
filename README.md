@@ -49,11 +49,6 @@ Create a .env file in the root directory with your Groq API and OpenAI API crede
 GROQ_API_KEY=your_api_key_here
 OPENAI_API_KEY=your_llama3_api_key_here
 ```
-### Run the Application
-
-```bash
-python application.py
-```
 
 ### Usage
 
